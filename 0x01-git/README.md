@@ -1,3 +1,4 @@
 My first readme
-The directory js has been deleted and bash has been updated 
-It is Quite interesting but stressful
+The directory js has been deleted
+Bash has been updated 
+
